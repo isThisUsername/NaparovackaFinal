@@ -1,0 +1,4 @@
+Id/Type/Duration/Percentage
+1/Linear/100/100
+2/Jump/0/50
+3/Const/1000/50

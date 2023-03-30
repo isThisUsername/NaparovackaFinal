@@ -1,0 +1,9 @@
+Id/Type/Duration/Percentage
+1/CLOSE APERTURE/0/0
+2/Linear/5000/50
+3/Const/1000/50
+4/OPEN APERTURE/0/50
+5/Const/10000/50
+6/CLOSE APERTURE/0/50
+7/Const/1000/50
+8/Linear/5000/0

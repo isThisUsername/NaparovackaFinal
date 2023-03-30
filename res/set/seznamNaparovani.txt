@@ -1,0 +1,18 @@
+Id/Name/Author/Notes/Code
+1/Basic/Mark/RANDOM/1
+2/Basic Copy/Mark/RANDOM/0105121443305
+3/BASIC/Marek/10%/2
+4/BASIC/Marek/20%/3
+5/BASIC/Marek/30% (sklo cislo 2) (10sec)/4
+6/BASIC/Marek/30% (sklo cislo 3) (20sec)/5
+7/BASIC/Marek/30% (sklo cislo 4) (30sec)/6
+8/BASIC Copy/Marek/10% zkouska/0205084743646
+9/BASIC/Marek/70% (30sec) (1boat)/8
+10/NEW/PC/-/0403180633948
+11/NEW Copy/PC/-/0205084617835
+12/Zkouska Radku/MaraS/-/1102153125086
+13/NEW/PC/-/0105163742966
+14/NEW/PC/-/0205084706673
+15/NEW/PC/-/0205152149959
+16/NEW/PC/-/0603174824353
+17/NEW/PC/-/0803144300443

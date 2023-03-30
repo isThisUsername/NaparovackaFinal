@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="guicedee.services.javax.transaction" type="repository">
+    <properties maven-id="com.guicedee.services:javax.transaction:1.0.20.2-jre15" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.transaction/1.0.20.2-jre15/javax.transaction-1.0.20.2-jre15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.transaction/1.0.20.2-jre15/javax.transaction-1.0.20.2-jre15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
